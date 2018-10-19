@@ -4,5 +4,8 @@ version = "0.1.0"
 authors = ["Adam Trilling <adamtrilling@gmail.com>"]
 
 [dependencies]
+bimap = "0.1.5"
 stdweb = "0.4.2"
+strum = "0.11.0"
+strum_macros = "0.11.0"
 yew = { git = "https://github.com/DenisKolodin/yew" }
